@@ -10,7 +10,7 @@ Implementation of Logistic Regression for the IRIS sklearn dataset, performance 
 Principal Component Analysis. The notebook contains:
 i) Implementation of PCA to the digits dataset from scikit-learn. 
 ii) Noise and Dimensionality Reduction on the dataset.
-iii) Eigenfaces if the dataset.
+iii) Eigenfaces of the dataset.
 
 ### RidgeLasso.py
 Lasso and Ridge implementation. Coefficients optimization and error analysis. 
