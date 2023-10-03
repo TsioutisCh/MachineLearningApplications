@@ -14,3 +14,6 @@ iii) Eigenfaces of the dataset.
 
 ### RidgeLasso.py
 Lasso and Ridge implementation. Coefficients optimization and error analysis. 
+
+### CWA.ipynb & CWA.pdf
+Implementation of knn adn nested cross validation using low level code. We also present a report discussing our findings.
